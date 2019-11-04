@@ -1,3 +1,5 @@
+Sample Prometheus test stack
+
 Prometheus query explore
 
 `http://localhost:9090`

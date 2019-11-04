@@ -1,0 +1,8 @@
+# # config file version
+apiVersion: 1
+
+providers:
+  - name: 'prometheus'
+    type: file
+    options:
+      path: /grafana-provisioning/providers/prometheus-dashboard.json
